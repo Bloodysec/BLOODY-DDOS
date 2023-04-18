@@ -1,13 +1,6 @@
 # THIS IS THE PROPERTY OF @Iamanonsec
 # JOIN OUR COMMUNITY @BLOODYSEC
 # All copyrights to BLOODYSEC
-
-# -*- coding: utf-8 -*-
-# Author : Kampung DDoSer
-# Recoded by : Kampung DDoSer
-# Cleaned by : AnaMontana
-# All copyrights to Kampung DDoSer
-
 import random
 import socket
 import string
