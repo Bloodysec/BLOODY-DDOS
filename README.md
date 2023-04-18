@@ -1,4 +1,3 @@
-# BLOODYSEC 
 [HTTP Flood](https://en.m.wikipedia.org/wiki/HTTP_Flood) Python script that could stop a normal website in 10s
 
 # How does it work ?
@@ -14,5 +13,5 @@ cd BLOODY-DDOS
 ls
 python3 BLOODYDDOS.py < Hostname > < Port > < Number_of_Attacks >
 ```
-   < hostname > < Port > < Number_of_Attacks >
+< hostname > < Port > < Number_of_Attacks >
 ```
