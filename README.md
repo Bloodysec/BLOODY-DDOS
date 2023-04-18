@@ -19,6 +19,8 @@ git clone https://github.com/Bloodysec
 cd BLOODY-DDOS
 ls
 python3 BLOODYDDOS.py < Hostname > < Port > < Number_of_Attacks >
+ 
+Stop command : ctrl+z
 ```
 < hostname > < Port > < Number_of_Attacks >
 ```
